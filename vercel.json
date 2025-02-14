@@ -1,8 +1,8 @@
 {
   "functions": {
     "api/*.js": {
-      "memory": 1200,
-      "maxDuration": 10
+      "memory": 1000,
+      "maxDuration": 5
     }
   },
   "redirects": [
